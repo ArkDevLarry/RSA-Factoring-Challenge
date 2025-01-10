@@ -12,7 +12,8 @@ int main()
         {
             factor1++;
         }
-        else {
+        els
+        {
             return (-1);
         }
     }
